@@ -1,4 +1,4 @@
-- 👋 Hi, this is my group's web project.
+- 👋 Hi, this is my group's web project laptop shop.
 - 📫 This project include some technology as: Servlet, JDBC, JSP/JSTL, Decorator Sitemesh, Bootstrap and MySQL
 - 🌱 Member in group: 
   + 👨‍💻: Nguyen Minh Thanh 20146422
